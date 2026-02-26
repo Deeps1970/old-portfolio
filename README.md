@@ -47,7 +47,7 @@ This portfolio is **fully responsive** and adapts seamlessly across:
 ## 🔗 Contact Me
 
 - 📧 Email: [thiagarajandeepu2007@gmail.com](mailto:thiagarajandeepu2007@gmail.com)
-- 🌐 Website: [Click Here!](https://deeps1970.github.io/Deeps1970/)
+- 🌐 Website: [Click Here!](https://portfolio-deeps1970.vercel.app/)
 - 📸 Instagram: [@_.cltchr7._](https://www.instagram.com/_.cltchr7._/)
 - 💬 LinkedIn: [deepak1970](https://www.linkedin.com/in/deepak1970/)
 - 📞 Phone: +91 63832 63688
